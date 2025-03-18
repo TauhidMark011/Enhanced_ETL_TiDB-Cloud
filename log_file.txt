@@ -1,0 +1,87 @@
+2025-03-17 16:14:52.429550 - Extracting source1.csv
+2025-03-17 16:14:52.453956 - Extracting source1.json
+2025-03-17 20:47:47.897050 - Extracting .csv file: source1.csv
+2025-03-17 20:47:47.922283 - Extracting json file: source1.json
+2025-03-17 20:47:47.924986 - Extracting .xml file: source1.xml
+2025-03-17 20:47:47.942874 - Extracting .csv file: source2.csv
+2025-03-17 20:47:47.946638 - Extracting json file: source2.json
+2025-03-17 20:47:47.949181 - Extracting .xml file: source2.xml
+2025-03-17 20:47:47.951244 - Extracting .csv file: source3.csv
+2025-03-17 20:47:47.955811 - Extracting json file: source3.json
+2025-03-17 20:47:47.959241 - Extracting .xml file: source3.xml
+2025-03-17 20:47:47.965399 - Starting data transformation...
+2025-03-17 20:47:47.966337 - Removing rows with missing values...
+2025-03-17 20:47:47.969887 - Converting height from inches to meters...
+2025-03-17 20:47:47.983868 - Converting weight from pounds to kilograms...
+2025-03-17 20:47:47.985781 - Dropping original 'height' and 'weight' columns...
+2025-03-17 20:47:47.998780 - Data transformation completed successfully!
+2025-03-17 21:45:32.096142 - Extracting .csv file: source1.csv
+2025-03-17 21:45:32.102787 - Extracting json file: source1.json
+2025-03-17 21:45:32.104430 - Extracting .xml file: source1.xml
+2025-03-17 21:45:32.105355 - Extracting .csv file: source2.csv
+2025-03-17 21:45:32.107401 - Extracting json file: source2.json
+2025-03-17 21:45:32.108692 - Extracting .xml file: source2.xml
+2025-03-17 21:45:32.109596 - Extracting .csv file: source3.csv
+2025-03-17 21:45:32.112792 - Extracting json file: source3.json
+2025-03-17 21:45:32.114633 - Extracting .xml file: source3.xml
+2025-03-17 21:45:32.117174 - Starting data transformation...
+2025-03-17 21:45:32.117483 - Removing rows with missing values...
+2025-03-17 21:45:32.118581 - Converting height from inches to meters...
+2025-03-17 21:45:32.120275 - Converting weight from pounds to kilograms...
+2025-03-17 21:45:32.121360 - Dropping original 'height' and 'weight' columns...
+2025-03-17 21:45:32.122744 - Data transformation completed successfully!
+2025-03-17 22:16:39.246025 - Extracting .csv file: source1.csv
+2025-03-17 22:16:39.252043 - Extracting json file: source1.json
+2025-03-17 22:16:39.253171 - Extracting .xml file: source1.xml
+2025-03-17 22:16:39.253966 - Extracting .csv file: source2.csv
+2025-03-17 22:16:39.255874 - Extracting json file: source2.json
+2025-03-17 22:16:39.257053 - Extracting .xml file: source2.xml
+2025-03-17 22:16:39.257836 - Extracting .csv file: source3.csv
+2025-03-17 22:16:39.259566 - Extracting json file: source3.json
+2025-03-17 22:16:39.260499 - Extracting .xml file: source3.xml
+2025-03-17 22:16:39.262899 - Starting data transformation...
+2025-03-17 22:16:39.263705 - Converting height from inches to meters...
+2025-03-17 22:16:39.266101 - Converting weight from pounds to kilograms...
+2025-03-17 22:16:39.267910 - Dropping original 'height' and 'weight' columns...
+2025-03-17 22:37:07.949857 - Extracting .csv file: source1.csv
+2025-03-17 22:37:07.956315 - Extracting json file: source1.json
+2025-03-17 22:37:07.957606 - Extracting .xml file: source1.xml
+2025-03-17 22:37:07.958419 - Extracting .csv file: source2.csv
+2025-03-17 22:37:07.961171 - Extracting json file: source2.json
+2025-03-17 22:37:07.962840 - Extracting .xml file: source2.xml
+2025-03-17 22:37:07.963712 - Extracting .csv file: source3.csv
+2025-03-17 22:37:07.966683 - Extracting json file: source3.json
+2025-03-17 22:37:07.967870 - Extracting .xml file: source3.xml
+2025-03-17 22:37:07.970454 - Starting data transformation...
+2025-03-17 22:37:07.970957 - Converting height from inches to meters...
+2025-03-17 22:37:07.972615 - Converting weight from pounds to kilograms...
+2025-03-17 22:37:07.973650 - Dropping original 'height' and 'weight' columns...
+2025-03-17 22:37:07.975155 - ✅ Data transformation completed successfully!
+2025-03-17 22:50:52.925983 - Extracting .csv file: source1.csv
+2025-03-17 22:50:52.931995 - Extracting json file: source1.json
+2025-03-17 22:50:52.933227 - Extracting .xml file: source1.xml
+2025-03-17 22:50:52.933972 - Extracting .csv file: source2.csv
+2025-03-17 22:50:52.935842 - Extracting json file: source2.json
+2025-03-17 22:50:52.936818 - Extracting .xml file: source2.xml
+2025-03-17 22:50:52.937489 - Extracting .csv file: source3.csv
+2025-03-17 22:50:52.939400 - Extracting json file: source3.json
+2025-03-17 22:50:52.940393 - Extracting .xml file: source3.xml
+2025-03-17 22:50:52.942705 - Starting data transformation...
+2025-03-17 22:50:52.943490 - Converting height from inches to meters...
+2025-03-17 22:50:52.945372 - Converting weight from pounds to kilograms...
+2025-03-17 22:50:52.946954 - Dropping original 'height' and 'weight' columns...
+2025-03-17 22:50:52.948294 - ✅ Data transformation completed successfully!
+2025-03-17 23:00:00.696145 - Extracting .csv file: source1.csv
+2025-03-17 23:00:00.702042 - Extracting json file: source1.json
+2025-03-17 23:00:00.703232 - Extracting .xml file: source1.xml
+2025-03-17 23:00:00.704006 - Extracting .csv file: source2.csv
+2025-03-17 23:00:00.706045 - Extracting json file: source2.json
+2025-03-17 23:00:00.706965 - Extracting .xml file: source2.xml
+2025-03-17 23:00:00.707565 - Extracting .csv file: source3.csv
+2025-03-17 23:00:00.709375 - Extracting json file: source3.json
+2025-03-17 23:00:00.710308 - Extracting .xml file: source3.xml
+2025-03-17 23:00:00.712590 - Starting data transformation...
+2025-03-17 23:00:00.713420 - Converting height from inches to meters...
+2025-03-17 23:00:00.715660 - Converting weight from pounds to kilograms...
+2025-03-17 23:00:00.717085 - Dropping original 'height' and 'weight' columns...
+2025-03-17 23:00:00.718848 - ✅ Data transformation completed successfully!
